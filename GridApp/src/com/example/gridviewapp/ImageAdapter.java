@@ -53,6 +53,7 @@ public class ImageAdapter extends BaseAdapter {
 
 
 	public  Integer[]mThumIds = {
+			
 			R.drawable.sample_0, R.drawable.sample_0,
 			R.drawable.sample_1,R.drawable.sample_1,
 			R.drawable.sample_2,R.drawable.sample_2,
